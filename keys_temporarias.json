@@ -1,7 +1,8 @@
-[
-  {
-    "key": "white-mensal-abc12345",
-    "dataExpiracao": "2025-08-04"
-  }
-  
-]
+{
+  "temporarias": [
+    {
+      "key": "white-mensal-asd12345",
+      "expira_em": "2025-08-03T00:00:00"
+    }
+  ]
+}
